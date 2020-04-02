@@ -1,0 +1,10 @@
+pip install pyttsx3
+pip install SpeechRecognition
+pip install wikipedia
+pip install wolframalpha
+pip install pypiwin32
+pip install -Iv pyttsx3==2.6 -U
+pip install wolframalpha
+pip install WMI
+pip install PyAutoGUI
+pip install psutil
